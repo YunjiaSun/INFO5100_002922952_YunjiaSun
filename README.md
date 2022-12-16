@@ -11,11 +11,6 @@
 * back-end: logic of [upload files & covert format & covert save] functions
 
 
-### Development Tools ：
-IntelliJ & Scene Builder
-
-
-
 ### Function : 
 ***Upload files and show properties:***
 * Develop GUI to allow user to upload image three files from desktop/laptop
@@ -36,18 +31,32 @@ IntelliJ & Scene Builder
 * Use alert message to guide user follow the correct opreation
 
 
-### Design Pattern
+### Design Pattern - MVC 
+The MVC pattern divides the interactive application into three parts: Model, View and Controller.
+This program uses javaFX and SceneBuilder as development language and interface design tools, which naturally conform to the MVC development model.
 
+### UML
+<img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/UML.png" width = "600" height = "400">
 
-### inheritance & interfaces
+### Inheritance, Encapsulation and Interfaces
+Establish two interfaces of ImageCovert & ImageFilrer to realize the inheritance of subsidiary classes.
+<img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/Structure.png" width = "400" height = "250">
 
 
 ### Screenshots of various tests
 
-![Dog3 Grey.jpg](https://ibb.co/JF3C4Dn)
+terminal test<br>
+<img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/Test1.png" width = "400" height = "250">
+
+Java Exceptions - Try...Catch<br>
+<img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/Test2.png" width = "400" height = "250">
+
+filter test<br>
+<img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/filtertest.png" width = "400" height = "250">
+
 
 ### Source code
-
+https://www.tabnine.com/code/java/methods/javafx.scene.image.Image/getPixelReader
 
 
 
