@@ -45,13 +45,13 @@ Establish two interfaces of ImageCovert & ImageFilrer to realize the inheritance
 
 ### Screenshots of various tests
 
-terminal test<br>
+Terminal Test<br>
 <img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/Test1.png" width = "400" height = "250">
 
 Java Exceptions - Try...Catch<br>
 <img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/Test2.png" width = "400" height = "250">
 
-filter test<br>
+Convert/Filter Test<br>
 <img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/filtertest.png" width = "400" height = "250">
 
 
