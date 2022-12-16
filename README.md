@@ -44,7 +44,7 @@ IntelliJ & Scene Builder
 
 ### Screenshots of various tests
 
-![Dog3 Grey]https://ibb.co/JF3C4Dn
+![Dog3 Grey.jpg](https://ibb.co/JF3C4Dn)
 
 ### Source code
 
