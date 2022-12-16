@@ -55,9 +55,5 @@ Convert/Filter Test<br>
 <img src = "https://github.com/YunjiaSun/INFO5100_002922952_YunjiaSun/blob/main/Test%20Image/filtertest.png" width = "400" height = "250">
 
 
-### Source code
-https://www.tabnine.com/code/java/methods/javafx.scene.image.Image/getPixelReader
-
-
 
 
